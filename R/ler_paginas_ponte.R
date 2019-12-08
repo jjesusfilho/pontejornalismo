@@ -1,4 +1,4 @@
-#' Ler notícias baixadas com baixar_ponte
+#' Ler notícias baixadas com baixar_paginas_ponte
 #'
 #' @param arquivos Vetor com local dos arquivos
 #' @param diretorio Se não informar os arquivos,

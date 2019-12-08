@@ -2,7 +2,7 @@
 % Please edit documentation in R/ler_paginas_ponte.R
 \name{ler_paginas_ponte}
 \alias{ler_paginas_ponte}
-\title{Ler notícias baixadas com baixar_ponte}
+\title{Ler notícias baixadas com baixar_paginas_ponte}
 \usage{
 ler_paginas_ponte(arquivos = NULL, diretorio = ".")
 }
@@ -16,5 +16,5 @@ informar o diretório}
 tibble
 }
 \description{
-Ler notícias baixadas com baixar_ponte
+Ler notícias baixadas com baixar_paginas_ponte
 }
